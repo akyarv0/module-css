@@ -1,4 +1,4 @@
-import Buton from "../buttons/Buton";
+import Buton from "../buton/Buton";
 
 const Card = ({ lang, img }) => {
     return (
